@@ -1,1 +1,4 @@
-print ('this is first commit')
+import git2
+
+name = git2.get_name()
+print("hello {}".format(name))
