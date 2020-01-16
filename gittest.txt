@@ -1,1 +1,2 @@
-very first file
+very first file.
+What are we doing.
