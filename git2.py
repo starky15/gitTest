@@ -1,3 +1,3 @@
 # myname.py
 def get_name():
-    return "Jim"
+    return "Jim is not so cool"
